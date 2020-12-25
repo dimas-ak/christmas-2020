@@ -8,7 +8,7 @@ Simple Christmas Tree
 ## Installation
 
 ```bash
-$ git clone https://github.com/dimas-ak/ArjunaneXamarin.git
+$ git clone https://github.com/dimas-ak/christmas-2020.git
 ```
 
 ## Contact
